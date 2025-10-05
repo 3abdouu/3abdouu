@@ -1,8 +1,7 @@
 # 👋 Hey, I'm Abderahmen Abderazak  
 
-🚀 **Computer Science Student** | **Intern @ Chaabene Technology Group**  
+🚀 **Computer Science Student** | 
 💻 Passionate about **Web Development, Backend, and Software Design**  
-🌱 Currently working on **AutoPro**, a platform for automated car dealership websites.  
 
 ---
 
